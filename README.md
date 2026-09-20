@@ -6,6 +6,7 @@ This project is a small bridge between Discord and osu!, using Bancho IRC to sen
 
 I'm sure there are better solutions than mine out there but I learned a lot while making it. Also I'm always open for pull requests :D
 
+**I have more plans for this project**
 
 ## How does it work?
 
