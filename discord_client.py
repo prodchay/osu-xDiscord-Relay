@@ -73,6 +73,11 @@ async def send_osu_map(msg):
 
     try:
         beatmap_name = get_beatmap_name(beatmap_id)
+
+        if beatmap_name == "Beatmap does not meet configuration requirements.":
+            await msg.channel.send(f"{beatmap_name} does not meet the configuration requirements. Send something else.")
+            return
+
     except RuntimeError as exc:
         await msg.channel.send(f"osu! setup is incomplete: {exc}")
         return
