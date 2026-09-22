@@ -6,7 +6,7 @@ This project is a small bridge between Discord and osu!, using Bancho IRC to sen
 
 I'm sure there are better solutions than mine out there but I learned a lot while making it. Also I'm always open for pull requests :D
 
-**THIS ONLY WORKS FOR THE STABLE CLIENT!**
+**THIS ONLY WORKS FOR THE STABLE CLIENT UNLESS YOU HAVE A FRIEND TO USE THEIR ACCOUNT TO SEND MAPS TO YOU!**
 
 ## How does it work?
 
